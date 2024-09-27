@@ -1,4 +1,4 @@
-# Capstone-Project
+# Capstone Project
 ## SMS Spam Detection using Machine Learning
 This project focuses on predicting whether an SMS message is spam or not using a dataset of various messages labeled as either spam or not spam. Detailed information about the dataset and the project can be found here: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data
 
